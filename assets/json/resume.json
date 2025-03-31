@@ -3,6 +3,7 @@
     {
       "name": "Department of ECE, Rutgers University",
       "position": "Research Assistant",
+      "url": "https://ece.rutgers.edu/",
       "startDate": "2021.7",
       "endDate": "Current",
       "summary": "Design efficient and effective ISAC MIMO OTFS system.",
@@ -14,6 +15,7 @@
     {
       "name": "Department of ECE, Rutgers University",
       "position": "Teaching Assistant",
+      "url": "https://ece.rutgers.edu/",
       "startDate": "2021.7",
       "endDate": "Current",
       "summary": "Teaching Probability Theory and Cryptograph."
@@ -22,7 +24,6 @@
   "education": [
     {
       "institution": "Rutgers University",
-      "location": "New Jersey, USA",
       "url": "https://ece.rutgers.edu/",
       "area": "Department of Electrical and Computer Engineering",
       "studyType": "Doctor of Philosophy",
@@ -31,7 +32,6 @@
     },
     {
       "institution": "Rutgers University",
-      "location": "New Jersey, USA",
       "url": "https://msds-stat.rutgers.edu/msdatascience",
       "area": "Department of Statistics",
       "studyType": "Master of Science, Data Science",
@@ -40,7 +40,6 @@
     },
     {
       "institution": "Rutgers University",
-      "location": "New Jersey, USA",
       "url": "https://sas.rutgers.edu/",
       "area": "Department of Mathematics, Department of Statistics",
       "studyType": "Bachelor of Mathematics and Statistics (Double Major)",

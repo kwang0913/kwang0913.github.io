@@ -38,16 +38,14 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-paper-is-accepted-by-sensys-2022",
           title: 'Our paper is accepted by Sensys 2022',
+          description: "",
+          section: "News",},{id: "news-i-m-joining-the-team-of-prof-athina-petropulu",
+          title: 'I’m joining the team of Prof. Athina Petropulu.',
           description: "",
           section: "News",},{
         id: 'social-email',

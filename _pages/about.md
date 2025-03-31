@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 171020-1001.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CoRE 532, Busch Campus</p>

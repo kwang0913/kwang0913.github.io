@@ -196,7 +196,6 @@ exclude:
   - _posts/
   - _projects/
   - _books/
-  - _news/
 keep_files:
   - CNAME
   - .nojekyll

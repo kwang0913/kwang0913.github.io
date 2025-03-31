@@ -39,13 +39,6 @@ ninja.data = [{
           
         },
       },{
-        id: 'social-discord',
-        title: 'Discord',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://discord.com/users/466768647298351124", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -86,13 +79,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-3415-0790", "_blank");
-        },
-      },{
-        id: 'social-researchgate',
-        title: 'ResearchGate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Kailong-Wang-5/", "_blank");
         },
       },{
         id: 'social-scholar',

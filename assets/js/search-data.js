@@ -47,6 +47,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-is-accepted-by-5th-ieee-international-symposium-on-joint-communications-amp-amp-sensing",
           title: 'Our paper is accepted by 5th IEEE International Symposium on Joint Communications &amp;amp;amp;...',
           description: "",
+          section: "News",},{id: "news-our-paper-is-accepted-by-2025-ieee-international-conference-on-acoustics-speech-and-signal-processing-icassp",
+          title: 'Our paper is accepted by 2025 IEEE International Conference on Acoustics, Speech, and...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

@@ -16,7 +16,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-our-paper-is-accepted-by-acm-sensys-2022",
+        },{id: "news-i-m-joining-the-team-of-prof-yingying-chen",
+          title: 'I’m joining the team of Prof. Yingying Chen.',
+          description: "",
+          section: "News",},{id: "news-our-paper-is-accepted-by-acm-sensys-2022",
           title: 'Our paper is accepted by ACM Sensys 2022.',
           description: "",
           section: "News",},{id: "news-i-m-joining-the-team-of-prof-athina-petropulu",

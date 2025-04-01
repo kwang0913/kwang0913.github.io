@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-m-joining-the-team-of-prof-yingying-chen",
-          title: 'I’m joining the team of Prof. Yingying Chen.',
+        },{id: "news-i-m-starting-my-study-as-a-ph-d-student-in-the-rutgers-university-ece-department-and-joining-the-team-of-prof-yingying-chen",
+          title: 'I’m starting my study as a Ph.D. student in the Rutgers University ECE...',
           description: "",
           section: "News",},{id: "news-our-paper-is-accepted-by-acm-sensys-2022",
           title: 'Our paper is accepted by ACM Sensys 2022.',

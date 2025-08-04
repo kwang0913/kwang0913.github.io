@@ -2,17 +2,17 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-# acm_id: # your dl.acm.org/profile/id
+acm_id: 99660711959 # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: kailong.wang@rutgers.edu # your email address
-facebook_id: kwang0913 # your facebook id
+# facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: kwang0913 # your GitHub user name
 # gitlab_username: # your GitLab user name
-ieee_id: 99327874 # your ieeexplore.ieee.org/author/id
+# ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
@@ -28,7 +28,7 @@ orcid_id: 0000-0002-3415-0790 # your ORCID ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: https://www.researchgate.net/profile/Kailong-Wang-5 # your profile on ResearchGate
+research_gate_profile: Kailong-Wang-5 # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
 scholar_userid: Bl-ePysAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus

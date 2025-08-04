@@ -41,6 +41,13 @@ ninja.data = [{
           title: 'I was honored to receive the Fall 2024 TA of the Semester Award....',
           description: "",
           section: "News",},{
+        id: 'social-acm',
+        title: 'ACM DL',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dl.acm.org/profile/99660711959/", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -48,25 +55,11 @@ ninja.data = [{
           window.open("mailto:%6B%61%69%6C%6F%6E%67.%77%61%6E%67@%72%75%74%67%65%72%73.%65%64%75", "_blank");
         },
       },{
-        id: 'social-facebook',
-        title: 'Facebook',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://facebook.com/kwang0913", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/kwang0913", "_blank");
-        },
-      },{
-        id: 'social-ieee',
-        title: 'IEEE Xplore',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/99327874/", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -81,6 +74,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-3415-0790", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Kailong-Wang-5/", "_blank");
         },
       },{
         id: 'social-scholar',

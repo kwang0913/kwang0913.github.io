@@ -37,6 +37,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-is-accepted-by-2025-ieee-international-conference-on-acoustics-speech-and-signal-processing-icassp",
           title: 'Our paper is accepted by 2025 IEEE International Conference on Acoustics, Speech, and...',
           description: "",
+          section: "News",},{id: "news-i-was-honored-to-receive-the-fall-2024-ta-of-the-semester-award-my-sincere-thanks-to-the-rutgers-ece-department",
+          title: 'I was honored to receive the Fall 2024 TA of the Semester Award....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

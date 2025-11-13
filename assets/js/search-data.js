@@ -43,6 +43,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-is-accepted-by-ieee-journal-on-selected-areas-in-communications",
           title: 'Our paper is accepted by IEEE Journal on Selected Areas in Communications.',
           description: "",
+          section: "News",},{id: "news-our-paper-is-accepted-by-the-33rd-european-signal-processing-conference-eusipco-2025",
+          title: 'Our paper is accepted by The 33rd European Signal Processing Conference (EUSIPCO 2025)....',
+          description: "",
           section: "News",},{
         id: 'social-acm',
         title: 'ACM DL',

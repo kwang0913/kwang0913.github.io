@@ -40,6 +40,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-honored-to-receive-the-fall-2024-ta-of-the-semester-award-my-sincere-thanks-to-the-rutgers-ece-department",
           title: 'I was honored to receive the Fall 2024 TA of the Semester Award....',
           description: "",
+          section: "News",},{id: "news-our-paper-is-accepted-by-ieee-journal-on-selected-areas-in-communications",
+          title: 'Our paper is accepted by IEEE Journal on Selected Areas in Communications.',
+          description: "",
           section: "News",},{
         id: 'social-acm',
         title: 'ACM DL',

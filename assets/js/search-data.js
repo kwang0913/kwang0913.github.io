@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-is-accepted-by-the-33rd-european-signal-processing-conference-eusipco-2025",
           title: 'Our paper is accepted by The 33rd European Signal Processing Conference (EUSIPCO 2025)....',
           description: "",
+          section: "News",},{id: "news-our-paper-is-accepted-by-2025-ieee-international-workshop-on-computational-advances-in-multi-sensor-adaptive-processing-camsap-2025",
+          title: 'Our paper is accepted by 2025 IEEE International Workshop on Computational Advances in...',
+          description: "",
           section: "News",},{
         id: 'social-acm',
         title: 'ACM DL',

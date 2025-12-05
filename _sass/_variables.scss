@@ -6,7 +6,8 @@
 @use "sass:color";
 
 // Colors
-$scarlet-color: #cc0033 !default;
+// $scarlet-color: #cc0033 !default;
+$scarlet-color: device-cmyk(0% 100% 81% 4%);
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;

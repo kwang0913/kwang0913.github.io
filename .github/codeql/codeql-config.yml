@@ -2,3 +2,4 @@ name: "CodeQL Config"
 
 paths-ignore:
   - "**/*.liquid.js"
+  - "assets/js/distillpub/**"

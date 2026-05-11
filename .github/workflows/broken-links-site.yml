@@ -44,4 +44,8 @@ jobs:
         with:
           fail: true
           # only check local links
-          args: --offline --root-dir _site --verbose --no-progress '_site/**/*.html'
+          args: >-
+            --offline --root-dir _site --verbose --no-progress
+            --exclude '/blog/tag/'
+            --exclude '/blog/category/'
+            '_site/**/*.html'

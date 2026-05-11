@@ -62,4 +62,5 @@ jobs:
             --exclude 'stackoverflow.com'
             --exclude 'unsplash.com'
             --exclude 'github.com/alshedivat/al-folio/blob/main/_sass'
+            --exclude 'dl.acm.org'
             --verbose --no-progress './**/*.md' './**/*.html'

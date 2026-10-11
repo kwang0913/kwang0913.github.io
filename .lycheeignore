@@ -1,2 +1,6 @@
 linkedin.com
 reddit.com
+# Verified in a browser on 2026-10-11; automated requests return HTTP 403.
+# Keep these exceptions specific to the two verified Rutgers technology pages.
+(?i)^https://techfinder\.rutgers\.edu/tech\?title=Low_Overhead_MIMO%E2%80%90OTFS_Channel_Estimation$
+^https://techfinder\.rutgers\.edu/tech/Virtual_Array_for_Dual_Function_MIMO_Radar_Communication_Systems_using_OTFS_Waveforms$

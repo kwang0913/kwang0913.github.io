@@ -59,7 +59,8 @@ permissions:
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
-    runs-on: ubuntu-latest
+    # Ruby 3.3.5 has no prebuilt package for Ubuntu 26.04.
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v7
